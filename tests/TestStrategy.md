@@ -1,5 +1,4 @@
 ## Test Strategy: Cloud Storage Tiering System
-
 Here you can find the testplan for the Cloud Storage Tiering system. 
 
 Our Cloud storage tiering system has the following functionalities:
